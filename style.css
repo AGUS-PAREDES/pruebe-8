@@ -1,0 +1,45 @@
+
+body { 
+    background-image: url(https://i.pinimg.com/474x/bd/c1/27/bdc1279ce093bf362e61b6eb46d3ce6f.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+} 
+#texto1 { 
+    width: 80%;
+    float: left;
+    font-family: Verdana;
+    font-size: 150%;
+    text-align: justify;
+}
+#p-texto1 {
+    text-align: center;
+    margin-bottom: 2em;
+}
+#imagen1 {
+    width: 15%;
+    float: right;
+    border-radius: 1%;
+    background-color: rgba(188, 147, 226, 0.856);
+}
+#separacion {
+    clear: both;
+}
+#p-texto2 { text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+#imagen2 { 
+    width: 25%;
+    float: center;
+}
+.box {
+    width: 700px;
+    height: 100px;
+    border: solid 2px;
+    background-color:rgba(247, 184, 247, 0.856) ;
+    padding: 3em;
+    float: right;
+    margin-right: 15px;
+    font-size: 200%;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
